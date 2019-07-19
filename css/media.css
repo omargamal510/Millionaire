@@ -1,0 +1,55 @@
+/* Start Navbar  */
+@media (max-width:767px) {
+
+    nav h1 {
+        margin:10px;
+    }
+
+    .slider .slider-filter section h1 {
+        font-size:30px;
+    }
+
+    .slider .slider-filter section p {
+        width:290px;
+        font-size:11px;
+    }
+
+    nav .sm-ul{
+        width:250px;
+    }
+}
+/* End Navbar  */
+
+
+/* Start About */
+@media (max-width:991px) {
+    .about h3,
+    .about p {
+        margin-left:0px;
+        text-align:center;
+    }
+
+    .about section img {
+        float:none;
+        margin:20px auto;
+        max-width:300px;
+    }
+
+    .m-v-g .main-line section {
+        width:290px;
+        margin-left:-130px;
+    }
+
+    .m-v-g .main-line section p {
+        font-size:10px;
+    }
+}
+/* End About */
+
+/* Start Contact  */
+@media (max-width:991px) {
+    .contact form {
+        margin-top:450px;
+    }
+}
+/* End Contact */
